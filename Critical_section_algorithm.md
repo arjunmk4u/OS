@@ -48,7 +48,7 @@ Bakery Algorithm
         for(j=0;j<n;j++)
         {
             while(choosing[j]);
-            while((number[i]!=0))&&(number[j],j)<(number[i],i);
+            while((number[j]!=0))&&(number[j],j)<(number[i],i);
         }
         Critical section
         number[i]=0;
